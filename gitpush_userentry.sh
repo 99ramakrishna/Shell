@@ -6,17 +6,8 @@
 #commitmsg=$4
 
 
-echo -e "Enter commit filename/. \c"
-read filename
-sleep 2
-echo -e "Enter branch \c"
-read branchname
-sleep 2
-echo -e "Enter flags(i.e. -m -am) \c"
-read flags
-sleep 2
-echo -e "Enter commit massage \c"
-read commitmsg
+echo -e " Enter filename/. baranchname flag(-m -am -amend ) commitmsg  \c"
+read filename branchname flag commitmsg 
 
 
 
