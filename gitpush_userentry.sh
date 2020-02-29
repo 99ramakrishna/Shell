@@ -6,7 +6,7 @@
 #commitmsg=$4
 
 
-echo -e " Enter filename/. baranchname flag(-m -am -amend ) commitmsg  \c"
+echo " Enter filename: baranchname: flag(-m -am -amend ): commitmsg:  "
 read filename branchname flag commitmsg 
 
 
