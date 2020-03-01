@@ -1,9 +1,15 @@
 #!/bin/bash
 
-filename=$1
-branchname=$2
-flag=$3
-commitmsg=$4
+#filename=$1
+#branchname=$2
+#flag=$3
+#commitmsg=$4
+
+
+echo -e " Enter username: useremail: filename: baranchname: flag(-m -am -amend ): commitmsg:  \c "
+read username useremail filename branchname flag commitmsg 
+
+
 
 if [[ -f $filename || -d $filename ]]
 then
@@ -19,9 +25,11 @@ then
 
 	 git commit $flag  "$commitmsg"
          echo "********************************* successfully commited **********************"
+	 git config --global user.name "$username"
+	 git config --global user.email "$useremail"
 	 git config credential.helper store
 
-	 git push origin $branchname
+	 git push origin $branchname -f
          
 	
 	 
@@ -36,5 +44,4 @@ then
 else 
    echo "$filename is not found"
 fi
-
 

@@ -1,0 +1,24 @@
+Filesystem      Size  Used Avail Use% Mounted on
+uramakrishna            1.8G     0  1.8G   0% /ramakrishna
+tmpfs           362M  1.6M  360M   1% /run
+/ramakrishna/sda5        92G  8.0G   80G  10% /
+tmpfs           1.8G  148M  1.7G   9% /ramakrishna/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.8G     0  1.8G   0% /sys/fs/cgroup
+/ramakrishna/loop0      1.0M  1.0M     0 100% /snap/gnome-logs/81
+/ramakrishna/loop1       45M   45M     0 100% /snap/gtk-common-themes/1353
+/ramakrishna/loop5       15M   15M     0 100% /snap/gnome-characters/317
+/ramakrishna/loop3      150M  150M     0 100% /snap/gnome-3-28-1804/71
+/ramakrishna/loop4       55M   55M     0 100% /snap/core18/1223
+/ramakrishna/loop6       90M   90M     0 100% /snap/core/7917
+/ramakrishna/loop2      4.3M  4.3M     0 100% /snap/gnome-calculator/501
+tmpfs           361M   96K  361M   1% /run/user/1002
+/ramakrishna/loop7       55M   55M     0 100% /snap/core18/1668
+/ramakrishna/loop8       92M   92M     0 100% /snap/core/8689
+/ramakrishna/loop9       15M   15M     0 100% /snap/gnome-characters/399
+/ramakrishna/loop10     4.3M  4.3M     0 100% /snap/gnome-calculator/544
+/ramakrishna/loop11      45M   45M     0 100% /snap/gtk-common-themes/1440
+/ramakrishna/loop12     161M  161M     0 100% /snap/gnome-3-28-1804/116
+/ramakrishna/loop13     135M  135M     0 100% /snap/code/25
+/ramakrishna/loop14     348M  348M     0 100% /snap/pycharm-community/179
+/ramakrishna/sda3       217G   47G  170G  22% /media/rama/Destros
