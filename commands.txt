@@ -1,0 +1,7 @@
+lsb_release -d
+pwd
+date
+whoami
+ls -ltr
+df -kh 
+free -m

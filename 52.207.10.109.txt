@@ -1,0 +1,10 @@
+PING 52.207.10.109 (52.207.10.109) 56(84) bytes of data.
+64 bytes from 52.207.10.109: icmp_seq=1 ttl=46 time=363 ms
+64 bytes from 52.207.10.109: icmp_seq=2 ttl=46 time=315 ms
+64 bytes from 52.207.10.109: icmp_seq=3 ttl=46 time=241 ms
+64 bytes from 52.207.10.109: icmp_seq=4 ttl=46 time=253 ms
+64 bytes from 52.207.10.109: icmp_seq=5 ttl=46 time=218 ms
+
+--- 52.207.10.109 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4000ms
+rtt min/avg/max/mdev = 217.750/278.029/362.845/53.277 ms

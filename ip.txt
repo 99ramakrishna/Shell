@@ -1,0 +1,5 @@
+google.com
+facebook.com
+
+52.207.10.109
+54.86.37.79
