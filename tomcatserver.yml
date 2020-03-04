@@ -1,0 +1,8 @@
+---
+- hosts:
+  become:
+  tasks:
+    - name: update server
+      yum:
+        name: update_cache
+        state: 

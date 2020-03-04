@@ -1,5 +1,36 @@
-google.com
-facebook.com
-flipkart.com
-amazon.com
+centos 52.207.10.109
+
+ubuntu 54.86.37.79
+ec2-user 54.91.220.194
+
+
+================================================================================
+#########centos#######################
+clear
+sudo -i
+yum update -y   /////// apt-get update -y
+yum install vim wget curl net-tools -y    /////// apt-get install vim -y && apt-get install wget -y && apt-get install ssh -y
+
+useradd -m -d /home/username_entry -s /bin/bash username_entry  ///common to all os
+passwd username_entry  
+   >>passw
+ 
+
+vim /etc/sudoers 
+    >>>> kiran  ALL=(ALL:ALL) NOPASSWD: ALL
+vim /etc/ssh/sshd_config
+     >>>>PasswordAuthentication yes
+su - kiran
+sudo yum update -y //////sudo apt-get update -y
+
+ssh-keygen 
+--
+--
+--
+--
+
+
+----------------------------------------------------------------------------
+
+
 

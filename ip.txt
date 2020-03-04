@@ -1,5 +1,9 @@
-google.com
-facebook.com
+PING 52.207.10.109 (52.207.10.109) 56(84) bytes of data.
+64 bytes from 52.207.10.109: icmp_seq=1 ttl=46 time=235 ms
+64 bytes from 52.207.10.109: icmp_seq=2 ttl=46 time=226 ms
+64 bytes from 52.207.10.109: icmp_seq=4 ttl=46 time=220 ms
+64 bytes from 52.207.10.109: icmp_seq=5 ttl=46 time=221 ms
 
-52.207.10.109
-54.86.37.79
+--- 52.207.10.109 ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4031ms
+rtt min/avg/max/mdev = 220.461/225.378/234.535/5.668 ms

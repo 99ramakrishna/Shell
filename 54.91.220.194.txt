@@ -1,0 +1,10 @@
+PING 54.91.220.194 (54.91.220.194) 56(84) bytes of data.
+64 bytes from 54.91.220.194: icmp_seq=1 ttl=45 time=625 ms
+64 bytes from 54.91.220.194: icmp_seq=2 ttl=45 time=287 ms
+64 bytes from 54.91.220.194: icmp_seq=3 ttl=45 time=260 ms
+64 bytes from 54.91.220.194: icmp_seq=4 ttl=45 time=544 ms
+64 bytes from 54.91.220.194: icmp_seq=5 ttl=45 time=362 ms
+
+--- 54.91.220.194 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 3999ms
+rtt min/avg/max/mdev = 260.100/415.566/625.313/144.324 ms

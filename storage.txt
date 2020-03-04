@@ -1,0 +1,4 @@
+===============  Storage ========================== echo /dev/shm  used space is 0
+===============  Storage ========================== echo /dev/shm  used space is 0
+===============  Storage ========================== echo /run  used space is 57M
+===============  Storage ========================== echo /run  used space is 57M
