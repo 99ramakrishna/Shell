@@ -1,0 +1,14 @@
+
+Build an Elastic cloud computung(EC2) instance on windows and linux machine
+
+by using LAMP stack we build projects Word press and CRM and Open cart Application
+
+by using RDS and EC2 instances and Load balancer(ELB) and Route 53 created a 3 Tier Architecture
+ for solving high availability ,singlepoint failure,auto scaling ,self healing and load bancing
+
+mountain the EFS file system on EC2 instance
+
+created an IAM integrated with S3 and Fast glacier and created users and using  authentication process set MFA
+
+To consist of hybrid implementation where we build two private subnets and two public subnets require to set up a VPC 
+AWS and public subnet configured with VPN

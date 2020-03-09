@@ -1,0 +1,53 @@
+Creating new docker images: Nexus jar file -developer
+
+			application Properties-db team and Devops team Developement
+
+			combine Application Properties and jar files (Copy)
+
+			Log in ecr and Build Dicker Image
+
+
+maintain automation scripting in jenkins
+
+Day to day activities: 
+
+We have 1 application Quick base application ,there we are getting cloud tickets like Infrastructure increase or derease (SAAS)
+
+we are maintaing orgs of our customers and org environments (deV,test,UAT(USER ACCEPTENCE TEST-CLICENTS CHECKING), PRODUCTION)
+
+checking instances m5 Large( 2virtual CPUS, 8 GB ram) N/W Performence High. "Check EC2INSTANCES.INFO"
+
+Checking Cloud Watch and also configured alerts on high memory , high CPU and High Disk Space alerts,
+ Based on the Application Intensive either CPU/Memory Configuring Autoscaling Group
+
+Checking Jenkins Build Jobs If it Is Failed , we debug the job and will check the script
+
+Checking mails and alerts , monitoring AWS resourses like CPU , MEMORY , DISK 
+
+3rd party Monitoring tool (Application Monitoring) :UPTIME ROBOT
+
+Checking Cloud Tickets and resolving them
+
+Check: A cloud guru
+
+https://bluestardev.mizecx.com/login.html
+
+
+
+
+
+ 
+MIze Application
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+ 1  yum install git -y
+    2  docker -y
+    3  docker -y
+    4  yum install docker -y
+    5  git config --global credential.helper '!aws codecommit credential-helper $@'
+    6  git config --global credential.UseHttpPath true
+    7  git clone https://git-codecommit.us-east-1.amazonaws.com/v1/repos/new-project
+    8  pwd
+    9  git clone https://github.com/sohailadnan/aws-codedeploy-linux.git
+   10  ll
+   11  git push https://git-codecommit.us-east-1.amazonaws.com/v1/repos/new-project
+   12  cd aws-codedeploy-linux/
+   13  git push https://git-codecommit.us-east-1.amazonaws.com/v1/repos/new-project
+   14  history
+
+
+git hub ,pipe line ,bean stack one project

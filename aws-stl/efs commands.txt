@@ -1,0 +1,17 @@
+1  ll
+    2  cd/mnt/
+    3  cd /mnt/
+    4  pwd
+    
+    7  mkdir EFS-storage-box
+    8  ll
+    9  mount -t nfs4 fs-39135171.efs.us-east-1.amazonaws.com:/ /mnt/EFS-storage-box
+   10  fs-2c105264.efs.us-east-1.amazonaws.commount -t nfs4 mount -t nfs4 mount -t nfs4
+   11  mount -t nfs4fs-2c105264.efs.us-east-1.amazonaws.com
+   12  df -H
+   13  ll
+   14  pwd
+   15  cd EFS-storage-box
+   16  pwd
+   17  echo "testing on first instance"
+   18  history
